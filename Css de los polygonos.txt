@@ -1,0 +1,62 @@
+.fotos_casas
+margin-top: 3%;
+margin-left: 8%;
+__________________
+.galeria
+width: 80%;
+right: 9vw;
+__________________
+.opciones
+height: 125vh;
+width: 80vw;
+background-color: rgba(255, 0, 0, 0.36);
+margin-left: 10%;
+margin-top: 2%;
+display: block;
+__________________
+margin-left: 12.4%;
+display: block;
+margin-top: -6.6%;
+__________________
+margin-left: 37.2%;
+display: block;
+margin-top: -24.8%;
+__________________
+margin-left: 61.9%;
+display: block;
+margin-top: -24.8%;
+__________________
+margin-left: 0%;
+display: block;
+margin-top: -6.2%;
+__________________
+margin-left: 24.8%;
+display: block;
+margin-top: -24.7%;
+__________________
+margin-left: 49.6%;
+display: block;
+margin-top: -24.9%;
+__________________
+margin-left: 74.3%;
+display: block;
+margin-top: -24.8%;
+__________________
+margin-left: 12.3%;
+display: block;
+margin-top: -6.1%;
+__________________
+margin-left: 37.2%;
+display: block;
+margin-top: -24.8%;
+__________________
+margin-left: 62%;
+display: block;
+margin-top: -24.8%;
+__________________
+__________________
+http://www.agsec.org/wp-content/uploads/2019/01/Luxury-Apartments.jpg
+https://www.realista.com/es/wp-content/uploads/2017/01/Cataleya-off-plan-apartments-for-sale-Estepona_Roof-terrace-Penthouse-_Realista-Quality-Properties-Marbella-a-Phase-2_gallery-3.jpg
+https://www.tilesandbathsdirect.co.uk/file/images/lg/91_luxury_bathroom_hadley_wood_05_master_ensuite.jpg
+__________________
+E(fx)clipse
