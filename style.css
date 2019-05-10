@@ -512,6 +512,9 @@ button {
   .box3{
     padding-bottom: 6%;
   }
+  .fotos-casas{
+    text-align: center;
+  }
 }
 
 @media (min-width: 1024px) {
