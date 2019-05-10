@@ -76,6 +76,15 @@ img {
 .movil {
   display: none;
 }
+.image-zoom{
+  height: 100%;
+  width: 100%;
+}
+.zoom{
+  display: none;
+  height: 86vh;
+  width: 100vw;
+}
 .opciones {
   height: 86vh;
   width: 100vw;
@@ -397,6 +406,10 @@ button {
     padding-left: 11%;
   }
 }
+
+/*padding-left: 4%;
+text-align: center;*/
+
 /* ++++++++++++++++++++++++++++++++++++++MOVIL++++++++++++++++++++++++++++++*/
 
 @media (max-width: 736px) {
@@ -464,9 +477,10 @@ button {
   }
   .galeria{
     background-color: white;
-    padding-left: 13%;
-    padding-right: 17%;
-    left: 0%;
+    padding-left: 12%;
+    padding-right: 16%;
+    left: 2%;
+    text-align: center;
   }
   .contacto{
     background-color: white;
@@ -511,6 +525,40 @@ button {
   }
   .box3{
     padding-bottom: 6%;
+  }
+}
+
+@media (max-width: 415px) {
+  .opciones_menu_ordenador {
+    width: 35%;
+    padding: 2% 0 2% 0;
+    }
+  .movil {
+    top: 10%;
+    padding-bottom: 6%;
+    }
+  .opciones {
+    top: 145px;
+  }
+  .opciones_menu_ordenador {
+    width: 50%;
+    width: 35%;
+    padding: 2% 0 2% 0;
+  }
+  .movil {
+    top: 10%;
+    padding-bottom: 6%;
+  }
+  iframe {
+    height: 30vh;
+    height: 90vh;
+  }
+  .titbox {
+    padding-bottom: 4%;
+  }
+  .mapa{
+    right: 16%;
+    left: 13%;
   }
 }
 
